@@ -1,0 +1,2 @@
+# jrestartup_proto
+JR東日本スタートアップさんへの協業のためのモックアップ作成。LinkCraft。
