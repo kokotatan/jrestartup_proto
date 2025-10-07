@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-plus-jakarta-sans: 'Plus Jakarta Sans', 'Noto Sans', sans-serif;
+  --font-noto-sans: 'Noto Sans', sans-serif;
+}
+
+body {
+  font-family: var(--font-plus-jakarta-sans);
+}
+
+@layer base {
+  html {
+    font-family: var(--font-plus-jakarta-sans);
+  }
+}
